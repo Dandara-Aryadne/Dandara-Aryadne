@@ -1,5 +1,5 @@
 ### Hey, up in here!🤯 Aqui é a Dandara Aryadne, 
-### artista triste e TALVEZ futura programadora surtada
+artista triste e TALVEZ futura programadora surtada
 
 - 🌱 I’m currently learning and freaking out with Js and React...
 - 🤔 I’m looking for help with Js and React 
