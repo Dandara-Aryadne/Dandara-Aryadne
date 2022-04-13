@@ -3,7 +3,7 @@ artista triste e TALVEZ futura programadora surtada
 
 - 🌱 I’m currently learning and freaking out with Js and React...
 - 🤔 I’m looking for help with Js and React 
--  ⚡ Fun fact: I'm major in art. 
+-  ⚡ Fun fact: I'm major in art. HAHAHAHAHAHA  
 -  What I'm doing here, u ask? 🤡
 
 <div align="center">
